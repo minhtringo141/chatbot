@@ -1,0 +1,6 @@
+{
+    "appSecret": "b7fffda291eb3869081e331d50d80d37",
+    "pageAccessToken": "EAARtHlDLfzMBAJgEEzjmZBi5fw2cL1RoTZBVbSc7M4NJEqLgsWRS2Cgo7oxVhwxoss2pyw2lJY7YJjAJtxj8pkP66ZBjb7LYzMK1Fj3Xej6YYLMU8vIFw3jYaUPkou1Se0pgURWg1pssag2vJihwCWno7KwPkmzCAeIxGOf5QZDZD",
+    "validationToken": "verify-token",
+    "serverURL": "node server.js"
+}
